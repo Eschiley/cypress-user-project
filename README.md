@@ -51,6 +51,7 @@ Validações:
 
 
 Deletar o usúario criado e confirmar a exclusão pelo endpoint "Listar todos Usuario".
+
 Validações:
 - Verificar sucesso na exclusão do usuário;
 - Verificar sucesso na pesquisa do usuário;
