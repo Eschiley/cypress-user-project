@@ -1,0 +1,17 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "Tests for user service validation",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "./node_modules/.bin/cypress run",
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "keywords": [],
+  "author": "Eschiley Mayra Rolim",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "faker": "^5.4.0"
+  }
+}
